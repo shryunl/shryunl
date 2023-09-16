@@ -1,5 +1,4 @@
 ### Hi, I'm Shr-Yun 👋
-A cross-disciplinary challenge Taker and data analysis Specialist</h3>
 
 - 🏫 A master student studying in SMU
   
