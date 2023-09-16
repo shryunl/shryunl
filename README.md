@@ -8,7 +8,7 @@
 
 - 📫 Contact me: **shryunl@smu.edu**
 
-- 🚩 Linkedin:https://www.linkedin.com/in/shryunlin/
+- 🚩 Linkedin: https://www.linkedin.com/in/shryunlin/
 
 
 <h3 align="left">Languages and Tools:</h3>
